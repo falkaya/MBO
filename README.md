@@ -1,0 +1,1 @@
+MBO is a new metaheuristic algorithm. It is inspired by the V flight formation of migrating birds and we named it as the Migrating Birds Optimization (MBO) algorithm. You can find a short explanation as a poster, a detailed explanation as a journal paper.
